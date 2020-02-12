@@ -8,7 +8,8 @@
 - 哈工大停用词表.txt
 - 百度停用词表.txt
 - 四川大学机器智能实验室停用词库.txt
-最终效果
+
+###最终效果
 
 ![](http://q4xj8j4yk.bkt.clouddn.com//img/Figure_3.png)
 
